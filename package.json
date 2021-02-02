@@ -1,0 +1,16 @@
+{
+  "name": "vk-voice-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "XOP_EHOTOB <vk.com/xop_enotov>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "google-tts-api": "^2.0.1",
+    "vk-io": "^4.0.0-rc.30"
+  }
+}
